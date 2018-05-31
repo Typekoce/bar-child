@@ -12,204 +12,244 @@
  Text Domain:  bar-child
  */
 
-/** Bar child theme style**/
+/** Child theme style**/
 
 
 /****
 ** eclipse_vacancy 
-****/.vacancy-layout-1 #eclipse_vacancy 
+****/
+.vacancy-layout-1 #eclipse_vacancy 
 {
 border:1px dashed #ccc;
 color:red;
+tab:1;
 
 }
 
 
 /****
 ** vacancy-meta 
-****/.vacancy-layout-1 #eclipse_vacancy .vacancy-meta 
+****/
+.vacancy-layout-1 #eclipse_vacancy .vacancy-meta 
 {
 border:1px dashed #ccc;
 color:red;
+tab:1;
 
 }
 
 
 /****
 ** vac-lbl 
-****/.vacancy-layout-1 #eclipse_vacancy .vacancy-meta .vac-lbl 
+****/
+.vacancy-layout-1 #eclipse_vacancy .vacancy-meta .vac-lbl 
 {
 border:1px dashed #ccc;
 color:red;
+tab:1;
 
 }
 
 
 /****
 ** vac-val 
-****/.vacancy-layout-1 #eclipse_vacancy .vacancy-meta .vac-val 
+****/
+.vacancy-layout-1 #eclipse_vacancy .vacancy-meta .vac-val 
 {
 border:1px dashed #ccc;
 color:red;
+tab:1;
 
 }
 
 
 /****
 ** vacancy-action 
-****/.vacancy-layout-1 #eclipse_vacancy .vacancy-action 
+****/
+.vacancy-layout-1 #eclipse_vacancy .vacancy-action 
 {
 border:1px dashed #ccc;
 color:red;
+tab:1;
 
 }
 
 
 /****
 ** eclipse_vacancy 
-****/.vacancy-layout-2 #eclipse_vacancy 
+****/
+.vacancy-layout-2 #eclipse_vacancy 
 {
 border:1px dashed #ccc;
 color:red;
+tab:1;
 
 }
 
 
 /****
 ** vacancy-meta 
-****/.vacancy-layout-2 #eclipse_vacancy .vacancy-meta 
+****/
+.vacancy-layout-2 #eclipse_vacancy .vacancy-meta 
 {
 border:1px dashed #ccc;
 color:red;
+tab:1;
 
 }
 
 
 /****
 ** vac-lbl 
-****/.vacancy-layout-2 #eclipse_vacancy .vacancy-meta .vac-lbl 
+****/
+.vacancy-layout-2 #eclipse_vacancy .vacancy-meta .vac-lbl 
 {
 border:1px dashed #ccc;
 color:red;
+tab:1;
 
 }
 
 
 /****
 ** vac-val 
-****/.vacancy-layout-2 #eclipse_vacancy .vacancy-meta .vac-val 
+****/
+.vacancy-layout-2 #eclipse_vacancy .vacancy-meta .vac-val 
 {
 border:1px dashed #ccc;
 color:red;
+tab:1;
 
 }
 
 
 /****
 ** vacancy-action 
-****/.vacancy-layout-2 #eclipse_vacancy .vacancy-action 
+****/
+.vacancy-layout-2 #eclipse_vacancy .vacancy-action 
 {
 border:1px dashed #ccc;
 color:red;
+tab:1;
 
 }
 
 
 /****
 ** eclipse_vacancy 
-****/.vacancy-layout-3 #eclipse_vacancy 
+****/
+.vacancy-layout-3 #eclipse_vacancy 
 {
 border:1px dashed #ccc;
 color:red;
+tab:1;
 
 }
 
 
 /****
 ** vacancy-meta 
-****/.vacancy-layout-3 #eclipse_vacancy .vacancy-meta 
+****/
+.vacancy-layout-3 #eclipse_vacancy .vacancy-meta 
 {
 border:1px dashed #ccc;
 color:red;
+tab:1;
 
 }
 
 
 /****
 ** vac-lbl 
-****/.vacancy-layout-3 #eclipse_vacancy .vacancy-meta .vac-lbl 
+****/
+.vacancy-layout-3 #eclipse_vacancy .vacancy-meta .vac-lbl 
 {
 border:1px dashed #ccc;
 color:red;
+tab:1;
 
 }
 
 
 /****
 ** vac-val 
-****/.vacancy-layout-3 #eclipse_vacancy .vacancy-meta .vac-val 
+****/
+.vacancy-layout-3 #eclipse_vacancy .vacancy-meta .vac-val 
 {
 border:1px dashed #ccc;
 color:red;
+tab:1;
 
 }
 
 
 /****
 ** vacancy-action 
-****/.vacancy-layout-3 #eclipse_vacancy .vacancy-action 
+****/
+.vacancy-layout-3 #eclipse_vacancy .vacancy-action 
 {
 border:1px dashed #ccc;
 color:red;
+tab:1;
 
 }
 
 
 /****
 ** eclipse_vacancy 
-****/.vacancy-layout-4 #eclipse_vacancy 
+****/
+.vacancy-layout-4 #eclipse_vacancy 
 {
 border:1px dashed #ccc;
 color:red;
+tab:1;
 
 }
 
 
 /****
 ** vacancy-meta 
-****/.vacancy-layout-4 #eclipse_vacancy .vacancy-meta 
+****/
+.vacancy-layout-4 #eclipse_vacancy .vacancy-meta 
 {
 border:1px dashed #ccc;
 color:red;
+tab:1;
 
 }
 
 
 /****
 ** vac-lbl 
-****/.vacancy-layout-4 #eclipse_vacancy .vacancy-meta .vac-lbl 
+****/
+.vacancy-layout-4 #eclipse_vacancy .vacancy-meta .vac-lbl 
 {
 border:1px dashed #ccc;
 color:red;
+tab:1;
 
 }
 
 
 /****
 ** vac-val 
-****/.vacancy-layout-4 #eclipse_vacancy .vacancy-meta .vac-val 
+****/
+.vacancy-layout-4 #eclipse_vacancy .vacancy-meta .vac-val 
 {
 border:1px dashed #ccc;
 color:red;
+tab:1;
 
 }
 
 
 /****
 ** vacancy-action 
-****/.vacancy-layout-4 #eclipse_vacancy .vacancy-action 
+****/
+.vacancy-layout-4 #eclipse_vacancy .vacancy-action 
 {
 border:1px dashed #ccc;
 color:red;
+tab:1;
 
 }
